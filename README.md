@@ -3,7 +3,7 @@ Este sistema tem como objetivo realizar o cadastro de clientes.
 
 # Tecnologias utilizadas.
 
-HTML
-CSS
-JavaScript
+HTML =>>
+CSS =>
+JavaScript =>
 PHP
